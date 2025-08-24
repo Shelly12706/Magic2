@@ -138,7 +138,8 @@ ReportPanel
 ![學生選課_不能低於](pic/student_course_invalid.png)
 ![學生選課_衝堂機制](pic/student_course_conflict.png)
 ![學生選課完成](pic/student_course_done.png)
-![老師成績管理](https://raw.githubusercontent.com/Shelly12706/Magic2/main/pic/teacher_grade_manage.png)
+![註冊](https://raw.githubusercontent.com/Shelly12706/Magic2/f6bed68bf75db4fc22f081c98d263f4fa65d8da5/pic/register.png)
+
 
 
 
