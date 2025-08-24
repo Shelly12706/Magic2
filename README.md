@@ -117,7 +117,7 @@ ReportPanel
 
 # 教師端圖片
 
-![老師成績管理](pic/teacher_grade_manage.png)
+![老師成績管理](https://raw.githubusercontent.com/Shelly12706/Magic2/main/pic/teacher_grade_manage.png)
 ![老師成績管理_批次](pic/teacher_grade_batch.png)
 ![老師成績管理_單筆](pic/teacher_grade_single.png)
 ![老師登入](pic/teacher_login.png)
